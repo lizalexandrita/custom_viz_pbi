@@ -1,0 +1,26 @@
+{
+    "visual": {
+        "name": "interactivecalendar",
+        "displayName": "interactive_calendar",
+        "guid": "interactivecalendarBD1A7748E554424590875EE9D9E4A593",
+        "visualClassName": "Visual",
+        "version": "1.0.0.0",
+        "description": "Interactive Calendar that allows the user to select a date range and drill down to other hierarchies, conditional format days and select as manyy months as possible.",
+        "supportUrl": "",
+        "gitHubUrl": ""
+    },
+    "apiVersion": "5.3.0",
+    "author": {
+        "name": "Liz Alexandrita de Souza Barreto",
+        "email": "liz.asbarreto@gmail.com"
+    },
+    "assets": {
+        "icon": "assets/icon.png"
+    },
+    "externalJS": null,
+    "style": "style/visual.less",
+    "capabilities": "capabilities.json",
+    "dependencies": null,
+    "stringResources": [],
+    "version": "1.0.0.0"
+}

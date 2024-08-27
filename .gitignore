@@ -1,0 +1,6 @@
+*.pbix
+*.sql
+*.pdf
+*.docx
+*.txt
+*workspace*

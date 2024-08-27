@@ -1,0 +1,4 @@
+import powerbiVisualsApi from "powerbi-visuals-api";
+import IVisualPlugin = powerbiVisualsApi.visuals.plugins.IVisualPlugin;
+declare var interactivecalendarBD1A7748E554424590875EE9D9E4A593_DEBUG: IVisualPlugin;
+export default interactivecalendarBD1A7748E554424590875EE9D9E4A593_DEBUG;
